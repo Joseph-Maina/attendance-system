@@ -108,7 +108,7 @@
      <!-- FOOTER -->
       <footer style="background:; height:120%;">
         <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy;       2017 ProjectWorlds, Inc. &middot;  developed by  <a href="https://facebook.com/yugesh.verma.35">Yugesh Verma </a><a href="http://projectworlds.in">Privacy</a> &middot; <a href="http://projectworlds.in">Terms</a></p>
+        <p>&copy;  All Rights Reserved &middot;  developed by  <a href="#">JM Tech. </a><a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
       </footer>
 
     </div><!-- /.container -->
